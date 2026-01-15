@@ -116,6 +116,10 @@ CREATE TABLE tasks (
 - **axios** - HTTP client
 - **react-scripts** - Build tools
 
+## Screenshots
+
+![Task Manager App](screenshots/app-demo.png)
+
 ## Troubleshooting
 
 **Frontend can't connect to backend:**
